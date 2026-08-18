@@ -1,0 +1,5 @@
+note_book.json
+__pycache__/
+*.pyc
+build/
+*.spec
